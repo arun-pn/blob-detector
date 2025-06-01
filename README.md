@@ -22,6 +22,3 @@ To install the required packages, run this command in your terminal or command p
 
 ```bash
 pip install -r requirements.txt
-
-## Demo
-For demonstration, please run the script democode.py
