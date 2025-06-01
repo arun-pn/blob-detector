@@ -1,1 +1,1 @@
-# blob-detector
+# Blob Detection and Analysis
