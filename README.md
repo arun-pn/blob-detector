@@ -16,3 +16,10 @@ References
 - Extract blob coordinates and radii
 - Calculate accurate blob intensities
 - Optional visualization of results
+
+## Installation / Requirements
+To install the required packages, run this command in your terminal or command prompt:
+
+```bash
+pip install -r requirements.txt
+
