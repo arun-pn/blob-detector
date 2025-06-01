@@ -261,3 +261,5 @@ def blobs(filename):
         print(f"Percentage Blob Intensity (relative to blob + background): {percentage_blob_vs_background:.2f}%")
         print()
     return mean_intensities, overall_intensities, percent_intensities, bg_intensities, percent_combined_intensities, n_blobs
+
+result = blobs('example_image.tif')
