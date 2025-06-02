@@ -17,11 +17,12 @@ References
 - Calculate accurate blob intensities
 - Optional visualization of results
 
-## Example
-To understand the script, run the code democode.py with the image example_image.tif placed in the same directory. You could also check the results with the scalebar.tif image file.
-
 ## Installation / Requirements
 To install the required packages, run this command in your terminal or command prompt:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Example
+To understand the script, run the code democode.py with the image example_image.tif placed in the same directory. You could also check the results with the scalebar.tif image file.
