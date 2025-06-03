@@ -12,6 +12,7 @@ References
 ## Features
 - Convert RGB images to grayscale
 - Detect blobs using Laplacian of Gaussian (LoG)
+- Compare LoG with other methods such as Difference of Gaussian (DoG) and Determinant of Hessian (DoH)
 - Generate binary masks for detected blobs
 - Extract blob coordinates and radii
 - Calculate accurate blob intensities
