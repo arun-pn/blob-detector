@@ -32,7 +32,7 @@ def blobs(filename):
         overall intensity, percentage intensity, background intensity.
 
     '''
-    fullpath = filename
+    fullpath = filename # name of the image file
     # fullpath = path_cwd+'\\'+filename # provide also the path (a good practice)
     
     image = io.imread(fullpath) # read an image
@@ -262,4 +262,4 @@ def blobs(filename):
         print()
     return mean_intensities, overall_intensities, percent_intensities, bg_intensities, percent_combined_intensities, n_blobs
 
-result = blobs('example_image.tif')
+result = blobs('example_image.tif') # function call, check result
