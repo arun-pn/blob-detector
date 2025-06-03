@@ -15,7 +15,6 @@ from skimage.filters import threshold_otsu
 import matplotlib.pyplot as plt
 
 
-
 def blobs(filename):
     '''
 
@@ -32,7 +31,7 @@ def blobs(filename):
         overall intensity, percentage intensity, background intensity.
 
     '''
-    fullpath = filename
+    fullpath = filename # name of the image file
     # fullpath = path_cwd+'\\'+filename # provide also the path (a good practice)
     
     image = io.imread(fullpath) # read an image
