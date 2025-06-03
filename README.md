@@ -24,6 +24,7 @@ To install the required packages, run this command in your terminal or command p
 ```bash
 pip install -r requirements.txt
 ```
+I have used Python version: Python 3.10.17
 
 ## Example
 To understand the script, run the code 'democode.py' with the image 'sample_image.tif' placed in the same directory. You could also check the results with the 'scalebar_image.tif' image file.
