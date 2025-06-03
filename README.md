@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```
 
 ## Example
-To understand the script, run the code 'democode.py' with the image 'example_image.tif' placed in the same directory. You could also check the results with the 'scalebar.tif' image file.
+To understand the script, run the code 'democode.py' with the image 'sample_image.tif' placed in the same directory. You could also check the results with the 'scalebar_image.tif' image file.
