@@ -29,3 +29,7 @@ I have used Python version: Python 3.10.17
 
 ## Example
 To understand the script, run the code 'democode.py' with the image 'sample_image.tif' placed in the same directory. You could also check the results with the 'scalebar_image.tif' image file.
+
+## Authors and Contributors
+- **Arun Pankajakshan** - Creator, primary developer
+- **Suneha Patil** - Data and analysis
